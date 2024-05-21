@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+POST,//login,HTTPError('405 Client Error: Not Allowed for url: //login'),100
